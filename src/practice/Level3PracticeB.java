@@ -7,9 +7,9 @@ import java.util.Arrays;
 
 import org.junit.Test;
 
-public class Level3PracticeB {
+public class Level3PracticeB{
 
-	private Finder finder = new Finder();
+	 Finder finder = new Finder();
 	
 	/*
 	 * TODO: implement the Finder class, including the method lastIndexOf 
